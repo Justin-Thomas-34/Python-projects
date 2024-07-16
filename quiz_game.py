@@ -1,3 +1,15 @@
+# Quiz Game
+'''
+This Python project is a simple yet engaging quiz game where users answer a series of questions. 
+The program will prompt the user with each question and evaluate their response. 
+For every correct answer, the user's score increases. 
+At the end of the quiz, the program will display the user's total score out of the number of questions asked, 
+along with the percentage of correct answers. 
+This project is a great way to practice fundamental programming concepts such as loops, 
+conditionals, and user input handling in Python.
+
+'''
+
 print("Welcome to my computer quiz!")
 
 playing = input("Do you want to play? ")
