@@ -1,12 +1,20 @@
 # Quiz Game
 '''
-This Python project is a simple yet engaging quiz game where users answer a series of questions. 
-The program will prompt the user with each question and evaluate their response. 
-For every correct answer, the user's score increases. 
-At the end of the quiz, the program will display the user's total score out of the number of questions asked, 
-along with the percentage of correct answers. 
-This project is a great way to practice fundamental programming concepts such as loops, 
-conditionals, and user input handling in Python.
+Welcome to the Python Quiz Game Project!
+This interactive program allows users to test their knowledge on computer-related acronyms. 
+The quiz consists of a series of questions where users must input the correct full forms of given abbreviations. 
+The program will evaluate the answers and keep track of the score. 
+At the end of the quiz, the total number of correct answers and the percentage score will be displayed.
+
+Features:
+
+Interactive user input
+Real-time feedback on answers
+Score tracking
+Final score and percentage display
+This project is an excellent way to practice basic Python programming concepts, 
+including user input handling, conditional statements, and simple arithmetic operations. 
+Dive in and enhance your Python skills while having fun with this quiz game!
 
 '''
 
